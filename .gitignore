@@ -21,3 +21,7 @@
 /yarn-error.log
 
 .byebug_history
+account_activations_controller_test.rb
+account_activations.coffee
+account_activations.scss
+account_activations_helper.rb
